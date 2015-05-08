@@ -1,4 +1,4 @@
-This is a fork from Waavi's Mailman. All credits goes to him
+This is a fork from Waavi's Mailman (https://github.com/Waavi/mailman). All credits goes to him
 
 ## Email bundle for Laravel
 
