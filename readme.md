@@ -1,3 +1,5 @@
+This is a fork from Waavi's Mailman. All credits goes to him
+
 ## Email bundle for Laravel
 
 Mailman has all of Laravel's Mail features, plus allows you to:
