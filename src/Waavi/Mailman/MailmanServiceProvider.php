@@ -18,7 +18,7 @@ class MailmanServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('waavi/mailman', 'waavi/mailman',  __DIR__.'/../..');
+		$this->package('raschan/mailman', 'raschan/mailman',  __DIR__.'/../..');
 	}
 
 	/**
